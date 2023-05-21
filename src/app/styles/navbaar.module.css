@@ -1,0 +1,31 @@
+.navbaar{
+    background-color: aqua;
+    height: 50px;
+}
+.navbaarlist{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3.2rem;
+}
+.counter{
+   border: 2px solid black;
+   width: 50%; 
+   margin: auto;
+   justify-content: center;
+   text-align: center;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    height: 300px;
+}
+.todoapi{
+    background-color: aquamarine;
+    color: blueviolet;
+    border: 2px solid black;
+    width: 50%; 
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
