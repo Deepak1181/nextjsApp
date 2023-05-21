@@ -9,9 +9,7 @@ const Navbaar = () => {
         <li>
           <Link href="/">Home</Link>
         </li>
-        <li>
-          <Link href="/todo">Todo</Link>
-        </li>
+        
         <li>
           <Link href="/counter">Counter</Link>
         </li>
